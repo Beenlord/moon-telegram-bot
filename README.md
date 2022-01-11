@@ -1,2 +1,2 @@
-# moon-telegram-bot
-Телеграм бот полнолуний
+# moon
+Погода в чате -- telegram-bot
