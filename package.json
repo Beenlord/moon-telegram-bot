@@ -1,0 +1,30 @@
+{
+  "name": "moon-telegram-bot",
+  "version": "1.0.0",
+  "description": "Телеграм бот полнолуний",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./app/index",
+    "start": "node ./app/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beenlord/moon-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "Vladimir_Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beenlord/moon-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Beenlord/moon-telegram-bot#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "jsonfile": "^6.1.0",
+    "node-telegram-bot-api": "^0.56.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

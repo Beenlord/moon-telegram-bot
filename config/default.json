@@ -1,0 +1,22 @@
+{
+    "Bot": {
+        "token": "5069335028:AAHp0xaMG7uBHjHKtXHKi7GGtip_rZZHMqU",
+        "name": "theskymoonbot"
+    },
+    "Administration": {
+        "Users": {
+            "admin": {
+                "password": "123123",
+
+                "username": "vovikko",
+                "description": "Main developer"
+            },
+            "moderator": {
+                "password": "123123",
+
+                "username": "vovikko",
+                "description":"Main developer"
+            }
+        }
+    }
+}
